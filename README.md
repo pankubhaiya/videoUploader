@@ -15,4 +15,4 @@
 
  2. api to download the compressed file from s3
  http://localhost:3000/api/download/filename with extension
-
+ video link - https://www.loom.com/share/e1f986f5626a4d64967b327a3f96f9ba?sid=d9ed9593-01e6-4db8-9a2c-39c8b11367d6
